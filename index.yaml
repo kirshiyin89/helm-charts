@@ -8,6 +8,6 @@ entries:
     name: common-services
     type: library
     urls:
-    - common-services-0.1.0.tgz
+    - https://kirshiyin89.github.io/helm-charts/common-services-0.1.0.tgz
     version: 0.1.0
 generated: "2024-10-15T17:07:49.183602068+02:00"
