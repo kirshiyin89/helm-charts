@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2024-10-15T16:48:41.200991052+02:00"
+entries:
+  common-services:
+  - apiVersion: v2
+    created: "2024-10-15T17:07:49.183842155+02:00"
+    description: A Helm library for common service templates.
+    digest: e88a395c74788e1b2a7067d28e8f0a95e8125a3eaab230816b20a69d8a23c787
+    name: common-services
+    type: library
+    urls:
+    - common-services-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-15T17:07:49.183602068+02:00"
